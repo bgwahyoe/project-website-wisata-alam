@@ -181,6 +181,9 @@
                                             <i class="fa fa-clock-o"></i>
                                             <a href="#">5 Days</a>
                                         </div>
+                                    </div><br>
+                                    <div>
+                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
                                     </div>
                                 </div>
                             </div>
