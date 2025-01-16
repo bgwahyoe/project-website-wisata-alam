@@ -335,7 +335,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="more_place_btn text-center">
-                        <a class="boxed-btn4" href="#">More Places</a>
+                        <a class="boxed-btn4" href="index.php?hal=travel_destination">More Places</a>
                     </div>
                 </div>
             </div>
