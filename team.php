@@ -1,13 +1,11 @@
-
-
      <!-- bradcam_area  -->
-     <div class="bradcam_area bradcam_bg_4">
+     <div class="bradcam_area bradcam_bg_4" style="background-image: url(img/team/kelompok3.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
-                        <h3>contact</h3>
-                        <p>Pixel perfect design with awesome contents</p>
+                        <h3>Our Team</h3>
+                        <p>Tim Mahasiswa, Semangat Juang Tanpa Batas.</p>
                     </div>
                 </div>
             </div>
@@ -15,26 +13,153 @@
     </div>
     <!--/ bradcam_area  -->
 
+    <!-- Our team -->
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 40px;
+            color: #2c3e50;
+            font-size: 2.5rem;
+        }
+        .team-member {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .team-member:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+        }
+        .team-member img {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+            object-position: center;
+            border-right: 4px solid #3498db;
+        }
+        .team-member .info {
+            padding: 20px;
+        }
+        .team-member h3 {
+            font-size: 1.5rem;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .team-member .role {
+            font-size: 1rem;
+            color: #3498db;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        .team-member p {
+            font-size: 0.9rem;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .social-links a {
+            color: #3498db;
+            font-size: 1.2rem;
+            margin-right: 10px;
+            transition: color 0.3s ease;
+        }
+        .social-links a:hover {
+            color: #FF4A52;
+        }
+    </style>
+
+    <div class="container"><br><br>
+        <!-- Team Member 1 -->
+        <div class="team-member row g-0">
+            <div class="col-md-4">
+                <img src="img/team/wahyu.jpg" alt="Wahyu" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <div class="info">
+                    <h3>Wahyu Ahmad Yassin</h3>
+                    <p class="role">Frontend Developer</p>
+                    <p>Wahyu Ahmad Yassin adalah mahasiswa teknik informatika yang bertanggung jawab untuk mengembangkan antarmuka pengguna yang menarik dan responsif.</p>
+                    <div class="social-links">
+                        <a href="https://www.instagram.com/bg.wahyoee/" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/wahyuahmadyassin" aria-label="Twitter"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://github.com/bgwahyoe" aria-label="Email"><i class="fa fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Team Member 2 -->
+        <div class="team-member row g-0">
+            <div class="col-md-4">
+                <img src="img/team/arief.jpg" style="object-position: top;" alt="Arief" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <div class="info">
+                    <h3>Arief Rachman Apriansyah</h3>
+                    <p class="role">Aplikasi javascript</p>
+                    <p>Arief Rachman Apriansyah adalah mahasiswa teknik informatika yang bertanggung jawab untuk mengembangkan logika Form Pemesanan dan aplikasi javascript</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
+                        <a href="#" aria-label="Twitter"><i class="fa fa-linkedin"></i></a>
+                        <a href="#" aria-label="Email"><i class="fa fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Team Member 3 -->
+        <div class="team-member row g-0">
+            <div class="col-md-4">
+                <img src="img/team/varrel.jpg" style="object-position: bottom;" alt="Varrel" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <div class="info">
+                    <h3>Muhamad Varrel Mahardika</h3>
+                    <p class="role">Laporan Project</p>
+                    <p>Muhamad Varrel Mahardika adalah mahasiswa teknik informatika yang bertanggung jawab untuk mengembangkan laporan project</p>
+                    <div class="social-links">
+                        <a href="https://www.instagram.com/muhamadvarelll_?igsh=MWJzbXhkMmVncm1vcQ==" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/varrel-nf-4374a1344" aria-label="Twitter"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://github.com/Varrel1608" aria-label="Email"><i class="fa fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Team Member 4 -->
+        <div class="team-member row g-0">
+            <div class="col-md-4">
+                <img src="img/team/lira.jpg" alt="Lira Liska" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <div class="info">
+                    <h3>Lira Liska</h3>
+                    <p class="role">Laporan Project</p>
+                    <p>Lira Liska adalah mahasiswa teknik informatika yang bertanggung jawab untuk mengembangkan laporan project</p>
+                    <div class="social-links">
+                        <a href="https://www.instagram.com/lisssss012/profilecard/?igsh=ODgxemo1Y2p2ZXRv" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
+                        <a href="https://github.com/LiraLiska/DDP_repo_2024_TI10_liraliska.git" aria-label="Twitter"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/lira-liska-b5a741341" aria-label="Email"><i class="fa fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- ================ contact section start ================= -->
     <section class="contact-section">
-    <div class="container">
-                <div class="d-none d-sm-block mb-5 pb-4">
-                    <!-- Ganti elemen map dengan iframe -->
-                    <iframe 
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.3175207721147!2d106.83004867503885!3d-6.352924493636993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ec6b07b68ea5%3A0x17da46bdf9308386!2sSTT%20Terpadu%20Nurul%20Fikri%20-%20Kampus%20B!5e0!3m2!1sid!2sid!4v1736823671834!5m2!1sid!2sid" 
-                        width="100%" 
-                        height="480" 
-                        style="border:0;" 
-                        allowfullscreen="" 
-                        loading="lazy" 
-                        referrerpolicy="no-referrer-when-downgrade">
-                    </iframe>
-                </div>
-    
-    
+            <div class="container">    
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="contact-title">Get in Touch</h2>
+                        <h2 class="contact-title">Contact Me</h2>
                     </div>
                     <div class="col-lg-8">
                         <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">

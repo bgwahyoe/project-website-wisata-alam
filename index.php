@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
+    
 
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
@@ -54,7 +55,7 @@
                                     <nav>
                                         <ul id="navigation">
                                             <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'home') {echo 'active';} ?>" href="index.php?hal=">home</a></li>
-                                            <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'about') {echo 'active';} ?>" href="index.php?hal=about">About</a></li>
+                                            <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'about') {echo 'active';} ?>" href="index.php?hal=about" >About</a></li>
                                             <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'travel_destination') {echo 'active';} ?>" href="index.php?hal=travel_destination">Destination</a></l/li>
                                             <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
@@ -68,7 +69,7 @@
                                                     <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'single-blog') {echo 'active';} ?>" href="index.php?hal=single-blog">single-blog</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'contact') {echo 'active';} ?>" href="index.php?hal=contact">Contact</a></li>
+                                            <li><a class="<?php if (isset($_GET['hal']) && $_GET['hal'] == 'contact') {echo 'active';} ?>" href="index.php?hal=team">Our Team</a></li>
                                         </ul>
                                     </nav>
                                 </div>
