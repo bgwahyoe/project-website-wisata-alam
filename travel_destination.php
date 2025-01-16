@@ -134,11 +134,11 @@
                             <div class="single_place">
                                 <div class="thumb">
                                     <img src="img/place/2.png" alt="">
-                                    <a href="#" class="prise">$500</a>
+                                    <a href="#" class="prise">Rp. 3.850.000,-</a>
                                 </div>
                                 <div class="place_info">
-                                    <a href="destination_details.html"><h3>Korola Megna</h3></a>
-                                    <p>United State of America</p>
+                                    <a href="destination_details.html"><h3>Gunung Rinjani</h3></a>
+                                    <p>Pulau Lombok, Nusa Tenggara Barat</p>
                                     <div class="rating_days d-flex justify-content-between">
                                         <span class="d-flex justify-content-center align-items-center">
                                              <i class="fa fa-star"></i> 
@@ -150,7 +150,7 @@
                                         </span>
                                         <div class="days">
                                             <i class="fa fa-clock-o"></i>
-                                            <a href="#">5 Days</a>
+                                            <a href="#">4 Days</a>
                                         </div>
                                     </div><br>
                                     <div>
@@ -163,11 +163,11 @@
                             <div class="single_place">
                                 <div class="thumb">
                                     <img src="img/place/3.png" alt="">
-                                    <a href="#" class="prise">$500</a>
+                                    <a href="#" class="prise">Rp. 800.000,-</a>
                                 </div>
                                 <div class="place_info">
-                                    <a href="destination_details.html"><h3>London</h3></a>
-                                    <p>United State of America</p>
+                                    <a href="destination_details.html"><h3>Pantai Sawarna</h3></a>
+                                    <p>Kabupaten Lebak, di provinsi Banten</p>
                                     <div class="rating_days d-flex justify-content-between">
                                         <span class="d-flex justify-content-center align-items-center">
                                              <i class="fa fa-star"></i> 
@@ -192,11 +192,11 @@
                             <div class="single_place">
                                 <div class="thumb">
                                     <img src="img/place/4.png" alt="">
-                                    <a href="#" class="prise">$500</a>
+                                    <a href="#" class="prise">Rp. 2.400.000,-</a>
                                 </div>
                                 <div class="place_info">
-                                    <a href="destination_details.html"><h3>Miami Beach</h3></a>
-                                    <p>United State of America</p>
+                                    <a href="destination_details.html"><h3>Labuan Bajo</h3></a>
+                                    <p>Kabupaten Manggarai Barat, Provinsi NTT</p>
                                     <div class="rating_days d-flex justify-content-between">
                                         <span class="d-flex justify-content-center align-items-center">
                                              <i class="fa fa-star"></i> 
@@ -210,6 +210,9 @@
                                             <i class="fa fa-clock-o"></i>
                                             <a href="#">5 Days</a>
                                         </div>
+                                    </div>
+                                    <div><br>
+                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -236,6 +239,9 @@
                                             <i class="fa fa-clock-o"></i>
                                             <a href="#">5 Days</a>
                                         </div>
+                                    </div><br>
+                                    <div>
+                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -262,6 +268,9 @@
                                             <i class="fa fa-clock-o"></i>
                                             <a href="#">5 Days</a>
                                         </div>
+                                    </div><br>
+                                    <div>
+                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
                                     </div>
                                 </div>
                             </div>

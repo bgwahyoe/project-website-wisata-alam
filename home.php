@@ -63,7 +63,7 @@
                             <img src="img/destination/bali.jpg" alt="">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Bali <a href="travel_destination.html">  07 Places</a> </p>
+                            <p class="d-flex align-items-center">Bali <a href="index.php?hal=travel_destination">  07 Places</a> </p>
                             
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                             <img src="img/destination/lombok.jpg" alt="">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Lombok <a href="travel_destination.html">  03 Places</a> </p>
+                            <p class="d-flex align-items-center">Lombok <a href="index.php?hal=travel_destination">  03 Places</a> </p>
                             
                         </div>
                     </div>
@@ -85,7 +85,7 @@
                             <img src="img/destination/bromo.jpg" alt="">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Mount Bromo <a href="travel_destination.html">  10 Places</a> </p>
+                            <p class="d-flex align-items-center">Mount Bromo <a href="index.php?hal=travel_destination">  10 Places</a> </p>
                             
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                             <img src="img/destination/toraja.jpg" alt="">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Toraja <a href="travel_destination.html">  02 Places</a> </p>
+                            <p class="d-flex align-items-center">Toraja <a href="index.php?hal=travel_destination">  02 Places</a> </p>
                             
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                             <img src="img/destination/rajaampat.png" alt="">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Raja Ampat <a href="travel_destination.html">  02 Places</a> </p>
+                            <p class="d-flex align-items-center">Raja Ampat <a href="index.php?hal=travel_destination">  02 Places</a> </p>
                             
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                             <img src="img/destination/indonesia.jpg" alt="">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Indonesia <a href="travel_destination.html">  05 Places</a> </p>
+                            <p class="d-flex align-items-center">Indonesia <a href="index.php?hal=travel_destination">  05 Places</a> </p>
                             
                         </div>
                     </div>
@@ -344,21 +344,23 @@
 
 
     <div class="video_area video_bg overlay">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="video_wrap text-center">
-                        <h3>Enjoy Video</h3>
-                        <div class="video_icon">
-                            <a class="popup-video video_play_button" href="https://www.youtube.com/watch?v=f59dDEk57i0">
-                                <i class="fa fa-play"></i>
-                            </a>
-                        </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="video_wrap text-center">
+                    <h3>Enjoy Video</h3>
+                    <div class="video_icon">
+                        <a class="popup-video video_play_button" href="https://www.youtube.com/watch?v=U-CMTK3yvsg" target="_blank">
+                            <i class="fa fa-play"></i>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+
+    
 
 
     <div class="travel_variation_area">

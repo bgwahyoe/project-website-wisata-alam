@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/logo_title.png">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
@@ -45,7 +45,7 @@
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
                                     <a href="index.php?hal=home">
-                                        <img src="img/logo.png" alt="">
+                                        <img src="img/logo_wisata.png" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -125,12 +125,12 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/footer_logo.png" alt="">
+                                    <img src="img/logo_wisata.png" alt="">
                                 </a>
                             </div>
-                            <p>5th flora, 700/D kings road, green <br> lane New York-1782 <br>
-                                <a href="#">+10 367 826 2567</a> <br>
-                                <a href="#">contact@carpenter.com</a>
+                            <p>Jalan Lenteng Agung Raya No.20 RT.5/RW.1 <br> Lenteng Agung, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12640 <br>
+                                <a href="#">(021) 7863191</a> <br>
+                                <a href="#">info@nurulfikri.ac.id</a>
                             </p>
                             <div class="socail_links">
                                 <ul>
@@ -184,13 +184,13 @@
                             </h3>
                             <ul class="links double_links">
                                 <li><a href="#">Indonesia</a></li>
-                                <li><a href="#">America</a></li>
-                                <li><a href="#">India</a></li>
-                                <li><a href="#">Switzerland</a></li>
-                                <li><a href="#">Italy</a></li>
-                                <li><a href="#">Canada</a></li>
-                                <li><a href="#">Franch</a></li>
-                                <li><a href="#">England</a></li>
+                                <li><a href="#">Lombok</a></li>
+                                <li><a href="#">Raja Ampat</a></li>
+                                <li><a href="#">Bali</a></li>
+                                <li><a href="#">Toraja</a></li>
+                                <li><a href="#">Banda Neira</a></li>
+                                <li><a href="#">Rinjani</a></li>
+                                <li><a href="#">Mount Bromo</a></li>
                             </ul>
                         </div>
                     </div>
@@ -243,7 +243,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Project is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://wa.me/62895604849987" target="_blank">Kelompok 3</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
