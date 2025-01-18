@@ -63,9 +63,9 @@
                                         <div class="single_select">
                                             <select>
                                                 <option data-display="Country">Country</option>
-                                                <option value="1">Africa</option>
-                                                <option value="2">canada</option>
-                                                <option value="4">USA</option>
+                                                <option value="1">Bali</option>
+                                                <option value="2">Lombok</option>
+                                                <option value="4">Jakarta</option>
                                               </select>
                                         </div>
                                     </div>
@@ -221,11 +221,11 @@
                             <div class="single_place">
                                 <div class="thumb">
                                     <img src="img/place/5.png" alt="">
-                                    <a href="#" class="prise">$500</a>
+                                    <a href="#" class="prise">Rp 5.000.000</a>
                                 </div>
                                 <div class="place_info">
-                                    <a href="destination_details.html"><h3>California</h3></a>
-                                    <p>United State of America</p>
+                                <a href="destination_details.html"><h3>Raja Ampat</h3></a>
+                                    <p>Papua, Indonesia</p>
                                     <div class="rating_days d-flex justify-content-between">
                                         <span class="d-flex justify-content-center align-items-center">
                                              <i class="fa fa-star"></i> 
@@ -250,20 +250,20 @@
                             <div class="single_place">
                                 <div class="thumb">
                                     <img src="img/place/6.png" alt="">
-                                    <a href="#" class="prise">$500</a>
+                                    <a href="#" class="prise">Rp 3.500.000</a>
                                 </div>
                                 <div class="place_info">
-                                    <a href="destination_details.html"><h3>Saintmartine Iceland</h3></a>
-                                    <p>United State of America</p>
-                                    <div class="rating_days d-flex justify-content-between">
-                                        <span class="d-flex justify-content-center align-items-center">
-                                             <i class="fa fa-star"></i> 
-                                             <i class="fa fa-star"></i> 
-                                             <i class="fa fa-star"></i> 
-                                             <i class="fa fa-star"></i> 
-                                             <i class="fa fa-star"></i>
-                                             <a href="#">(20 Review)</a>
-                                        </span>
+                                <a href="destination_details.html"><h3>Gunung Bromo</h3></a>
+                                <p>Jawa Timur, Indonesia</p>
+                                <div class="rating_days d-flex justify-content-between">
+                                    <span class="d-flex justify-content-center align-items-center">
+                                        <i class="fa fa-star"></i> 
+                                        <i class="fa fa-star"></i> 
+                                        <i class="fa fa-star"></i> 
+                                        <i class="fa fa-star"></i> 
+                                        <i class="fa fa-star"></i>
+                                        <a href="#">(15 Review)</a>
+                                    </span>
                                         <div class="days">
                                             <i class="fa fa-clock-o"></i>
                                             <a href="#">5 Days</a>

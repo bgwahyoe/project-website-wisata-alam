@@ -107,9 +107,9 @@
                     <p class="role">Aplikasi javascript</p>
                     <p>Arief Rachman Apriansyah adalah mahasiswa teknik informatika yang bertanggung jawab untuk mengembangkan logika Form Pemesanan dan aplikasi javascript</p>
                     <div class="social-links">
-                        <a href="#" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
-                        <a href="#" aria-label="Twitter"><i class="fa fa-linkedin"></i></a>
-                        <a href="#" aria-label="Email"><i class="fa fa-github"></i></a>
+                        <a href="https://www.instagram.com/sendi.riansss?igsh=eTNudDVrbWU2Zjg=" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/arief-rachman-apriansyah-9bb911343?trk=feed_main-feed-card_feed-actor-name" aria-label="Twitter"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://github.com/Riansyah96" aria-label="Email"><i class="fa fa-github"></i></a>
                     </div>
                 </div>
             </div>
