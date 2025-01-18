@@ -125,7 +125,7 @@
                                         </div>
                                     </div><br>
                                     <div>
-                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
+                                    <button class="boxed-btn4"><a style="color: white;" href="pemesanan.php">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                                         </div>
                                     </div><br>
                                     <div>
-                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
+                                    <button class="boxed-btn4"><a style="color: white;" href="pemesanan.php">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -183,7 +183,7 @@
                                         </div>
                                     </div><br>
                                     <div>
-                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
+                                    <button class="boxed-btn4"><a style="color: white;" href="pemesanan.php">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +212,7 @@
                                         </div>
                                     </div>
                                     <div><br>
-                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
+                                    <button class="boxed-btn4"><a style="color: white;" href="pemesanan.php">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -241,7 +241,7 @@
                                         </div>
                                     </div><br>
                                     <div>
-                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
+                                    <button class="boxed-btn4"><a style="color: white;" href="pemesanan.php">book now</a></button>
                                     </div>
                                 </div>
                             </div>
@@ -270,7 +270,7 @@
                                         </div>
                                     </div><br>
                                     <div>
-                                    <button class="boxed-btn4"><a style="color: white;" href="index.php?hal=single-blog">book now</a></button>
+                                    <button class="boxed-btn4"><a style="color: white;" href="pemesanan.php">book now</a></button>
                                     </div>
                                 </div>
                             </div>

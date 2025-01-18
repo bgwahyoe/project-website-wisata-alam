@@ -99,7 +99,7 @@
         <!-- Team Member 2 -->
         <div class="team-member row g-0">
             <div class="col-md-4">
-                <img src="img/team/arief.jpg" style="object-position: top;" alt="Arief" class="img-fluid">
+                <img src="img/team/ians.jpg" style="object-position: top;" alt="Arief" class="img-fluid">
             </div>
             <div class="col-md-8">
                 <div class="info">
