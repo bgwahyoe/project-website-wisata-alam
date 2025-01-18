@@ -20,7 +20,7 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="img/blog/single_blog_1.png" alt="Gunung Rinjani">
+                        <img class="img-fluid" src="img/blog/gurin.png" alt="Gunung Rinjani">
                     </div>
                     <div class="blog_details">
                         <h2>Petualangan Seru ke Gunung Rinjani</h2>

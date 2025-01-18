@@ -107,7 +107,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single_place">
                     <div class="thumb">
-                        <img src="img/place/1.png" alt="Raja Ampat">
+                        <img src="img/destination/rajaampat.png" alt="Raja Ampat">
                         <a href="#" class="prise">Rp 5.000.000</a>
                     </div>
                     <div class="place_info">
@@ -135,7 +135,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single_place">
                     <div class="thumb">
-                        <img src="img/place/2.png" alt="Gunung Bromo">
+                        <img src="img/destination/bromo.jpg" alt="Gunung Bromo">
                         <a href="#" class="prise">Rp 3.500.000</a>
                     </div>
                     <div class="place_info">
@@ -163,7 +163,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single_place">
                     <div class="thumb">
-                        <img src="img/place/3.png" alt="Danau Toba">
+                        <img src="img/destination/toba.png" alt="Danau Toba">
                         <a href="#" class="prise">Rp 4.000.000</a>
                     </div>
                     <div class="place_info">

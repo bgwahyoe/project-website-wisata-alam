@@ -22,7 +22,7 @@
                     <!-- Artikel 1 -->
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="Gunung Rinjani">
+                            <img class="card-img rounded-0" src="img/blog/gurin.png" alt="Gunung Rinjani">
                             <a href="#" class="blog_item_date">
                                 <h3>15</h3>
                                 <p>Jan</p>
@@ -43,7 +43,7 @@
                     <!-- Artikel 2 -->
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_2.png" alt="Raja Ampat">
+                            <img class="card-img rounded-0" src="img/blog/laut.png" alt="Raja Ampat">
                             <a href="#" class="blog_item_date">
                                 <h3>10</h3>
                                 <p>Jan</p>
@@ -64,7 +64,7 @@
                     <!-- Artikel 3 -->
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_3.png" alt="Gunung Bromo">
+                            <img class="card-img rounded-0" src="img/blog/sunrise.png" alt="Gunung Bromo">
                             <a href="#" class="blog_item_date">
                                 <h3>05</h3>
                                 <p>Jan</p>
@@ -85,7 +85,7 @@
                     <!-- Artikel 4 -->
                     <article class="blog_item">
                         <div class="blog_item_img">
-                            <img class="card-img rounded-0" src="img/blog/single_blog_4.png" alt="Pulau Komodo">
+                            <img class="card-img rounded-0" src="img/blog/komodo.png" alt="Pulau Komodo">
                             <a href="#" class="blog_item_date">
                                 <h3>01</h3>
                                 <p>Jan</p>

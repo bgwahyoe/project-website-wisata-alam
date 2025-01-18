@@ -104,7 +104,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single_place">
                                 <div class="thumb">
-                                    <img src="img/place/1.png" alt="">
+                                    <img src="img/destination/bandaneira.png" alt="">
                                     <a href="#" class="prise">Rp. 2.000.000,-</a>
                                 </div>
                                 <div class="place_info">
@@ -133,7 +133,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single_place">
                                 <div class="thumb">
-                                    <img src="img/place/2.png" alt="">
+                                    <img src="img/destination/rinjani.png" alt="">
                                     <a href="#" class="prise">Rp. 3.850.000,-</a>
                                 </div>
                                 <div class="place_info">
@@ -162,7 +162,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single_place">
                                 <div class="thumb">
-                                    <img src="img/place/3.png" alt="">
+                                    <img src="img/destination/sawarna.png" alt="">
                                     <a href="#" class="prise">Rp. 800.000,-</a>
                                 </div>
                                 <div class="place_info">
@@ -191,7 +191,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single_place">
                                 <div class="thumb">
-                                    <img src="img/place/4.png" alt="">
+                                    <img src="img/destination/labuan.png" alt="">
                                     <a href="#" class="prise">Rp. 2.400.000,-</a>
                                 </div>
                                 <div class="place_info">
@@ -220,7 +220,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single_place">
                                 <div class="thumb">
-                                    <img src="img/place/5.png" alt="">
+                                    <img src="img/destination/rajaampat.png" alt="">
                                     <a href="#" class="prise">Rp 5.000.000</a>
                                 </div>
                                 <div class="place_info">
@@ -249,7 +249,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single_place">
                                 <div class="thumb">
-                                    <img src="img/place/6.png" alt="">
+                                    <img src="img/destination/bromo.jpg" alt="">
                                     <a href="#" class="prise">Rp 3.500.000</a>
                                 </div>
                                 <div class="place_info">
@@ -323,67 +323,65 @@
             </div>
         </div>
         <!-- newletter_area_end  -->
+
     <div class="recent_trip_area">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center mb_70">
-                        <h3>Recent Trips</h3>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb_70">
+                    <h3>Perjalanan Terbaru</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/trip/1.png" alt="Perjalanan ke Bali">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>12 Okt 2023</span>
+                        </div>
+                        <a href="#">
+                            <h3>Menikmati Keindahan Pantai Bali</h3>
+                        </a>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_trip">
-                        <div class="thumb">
-                            <img src="img/trip/1.png" alt="">
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/trip/2.png" alt="Perjalanan ke Lombok">
+                    </div>
+                    <div class="info">
+                        <div class="date">
+                            <span>15 Okt 2023</span>
                         </div>
-                        <div class="info">
-                            <div class="date">
-                                <span>Oct 12, 2019</span>
-                            </div>
-                            <a href="#">
-                                <h3>Journeys Are Best Measured In
-                                    New Friends</h3>
-                            </a>
-                        </div>
+                        <a href="#">
+                            <h3>Petualangan di Hutan Lombok</h3>
+                        </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_trip">
-                        <div class="thumb">
-                            <img src="img/trip/2.png" alt="">
-                        </div>
-                        <div class="info">
-                            <div class="date">
-                                <span>Oct 12, 2019</span>
-                            </div>
-                            <a href="#">
-                                <h3>Journeys Are Best Measured In
-                                    New Friends</h3>
-                            </a>
-                        </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_trip">
+                    <div class="thumb">
+                        <img src="img/trip/3.png" alt="Perjalanan ke Jakarta">
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_trip">
-                        <div class="thumb">
-                            <img src="img/trip/3.png" alt="">
+                    <div class="info">
+                        <div class="date">
+                            <span>20 Okt 2023</span>
                         </div>
-                        <div class="info">
-                            <div class="date">
-                                <span>Oct 12, 2019</span>
-                            </div>
-                            <a href="#">
-                                <h3>Journeys Are Best Measured In
-                                    New Friends</h3>
-                            </a>
-                        </div>
+                        <a href="#">
+                            <h3>Menjelajahi Budaya Jakarta</h3>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
 
   <!-- Modal -->

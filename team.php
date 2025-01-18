@@ -104,7 +104,7 @@
             <div class="col-md-8">
                 <div class="info">
                     <h3>Arief Rachman Apriansyah</h3>
-                    <p class="role">Aplikasi javascript</p>
+                    <p class="role">Pemrograman javascript</p>
                     <p>Arief Rachman Apriansyah adalah mahasiswa teknik informatika yang bertanggung jawab untuk mengembangkan logika Form Pemesanan dan aplikasi javascript</p>
                     <div class="social-links">
                         <a href="https://www.instagram.com/sendi.riansss?igsh=eTNudDVrbWU2Zjg=" aria-label="LinkedIn"><i class="fa fa-instagram"></i></a>
