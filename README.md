@@ -28,4 +28,4 @@ Ikuti langkah berikut untuk menjalankan proyek ini secara lokal:
 
 1. **Clone repository ini**:
    ```bash
-   git clone https://github.com/username/website-wisata-alam.git
+   git clone https://github.com/bgwahyoe/project-website-wisata-alam.git
